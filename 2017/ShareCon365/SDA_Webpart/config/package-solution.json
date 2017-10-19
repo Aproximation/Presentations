@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sda-webpart-client-side-solution",
+    "id": "876ada8c-a68b-4022-850e-09b48bd9449c",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": false
+  },
+  "paths": {
+    "zippedPackage": "solution/sda-webpart.sppkg"
+  }
+}
